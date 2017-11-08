@@ -3,7 +3,8 @@
 	display: flex;
 	align-items: center;
 	justify-content: center;
-	background-image: url("../img/Forth_Bridge.png");
+	/*background-image: url("../img/Forth_Bridge.png");*/
+	background-color: dodgerblue;
 	background-size: cover;
 	
 	width: 100%;
